@@ -26,7 +26,7 @@ As AI gains traction in image generation, **privacy compliance** has become a cr
 5. **Cosine Similarity**: Calculates a similarity score, ensuring privacy with preserved key features.
 
 ## Getting Started
-1. **Launch in Colab**: [Click here](https://colab.research.google.com/drive/15RFBtXzo-lvKwMCkgh_0ZgeCASOPOgLE?usp=sharing) to open the notebook.
+1. **Launch in Colab**: [Click here](https://colab.research.google.com/drive/1vczXZiPOBpMYXO1_bq5gOQdCEqucQD2y) to open the notebook.
 2. **Run All Cells**: Follow the prompts to upload your image, run anonymization, and view/save results.
 3. **Adjust Parameters**: Customize thresholds or model settings within the notebook for different anonymization levels.
 
