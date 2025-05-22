@@ -38,6 +38,3 @@ As AI gains traction in image generation, **privacy compliance** has become a cr
 *(All required libraries are typically pre-installed in Colab.)*
 
 ---
-
-**Questions or Contributions?**  
-- Please open an issue or pull request.  
