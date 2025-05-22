@@ -1,7 +1,7 @@
 # Generative AI for Face Anonymization
 
 ## Overview
-This Gen AI project addresses privacy concerns in AI-generated imagery by **anonymizing human faces** without sacrificing data utility. Using **StyleGAN2** and **Pix2PixHD**, it performs **gender swapping** in both latent and pixel space to generate realistic, high-resolution anonymized images while preserving key attributes (e.g., hair, background, pose).
+This Gen AI project addresses privacy concerns to eliminate the risk of AI-generated imagery by **anonymizing human faces** in data sets without sacrificing data utility. Using **StyleGAN2** and **Pix2PixHD**, it performs **gender swapping** in both latent and pixel space to generate realistic, high-resolution anonymized images while preserving key attributes (e.g., hair, background, pose).
 
 ## Key Features
 - **StyleGAN2 + Pix2PixHD Integration**: Produces authentic facial images with seamless high-resolution transformations.
